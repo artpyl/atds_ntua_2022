@@ -8,6 +8,14 @@ Evangelou Spyridon Michail - mixlhs@gmail.com
 <br>
 Pylarinou Artemis - artemispylarinou@gmail.com
 
+# Repository structure
+
+- Queries: Code for tasks Q1-Q5
+<br>
+- Results: Results of the queries when run by spark
+<br>
+- upload_files.sh: Helper script that uploads files from local storage to HDFS
+
 # Installation Instructions
 
 In order to be able to run the scripts of the queries, an installation of Apache Spark 3.1.3 and Apache Hadoop 3.3.4 is needed. You will also have to upload the files
