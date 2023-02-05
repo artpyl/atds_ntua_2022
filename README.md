@@ -1,6 +1,6 @@
 # Atds_ntua_2022
 
-Our submission for the Project of 9th Semester for the class Advanced Topics in Database Systems.
+Our submission for the Project of 9th Semester for the class Advanced Topics in Database Systems, developed using Python (pyspark) and Apache Hadoop.
 
 # Team members
 
