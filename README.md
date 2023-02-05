@@ -10,9 +10,9 @@ Pylarinou Artemis - artemispylarinou@gmail.com
 
 # Repository structure
 
-- queries: Code for tasks Q1-Q5
-- results: Results of the queries when run by spark
-- upload_hdfs.sh: Helper script that uploads files from local storage to HDFS
+- <b>queries</b>: Code for tasks Q1-Q5
+  - <b>results</b>: Results of the queries when run by spark
+- <b>upload_hdfs.sh</b>: Helper script that uploads files from local storage to HDFS
 
 # Installation Instructions
 
