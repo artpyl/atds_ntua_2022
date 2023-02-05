@@ -19,4 +19,4 @@ as well as the file:
 <br>
 <link>https://d37ci6vzurychx.cloudfront.net/misc/taxi+_zone_lookup.csv</link>
 <br>
-to the HDFS. The final step involves changing the paths used in the scripts to the ones that follow your Spark/HDFS configuration
+to the HDFS. The final step involves changing the paths used in the scripts to the ones that follow your Spark/HDFS configuration.
