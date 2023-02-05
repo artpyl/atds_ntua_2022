@@ -16,7 +16,7 @@ spark = SparkSession.builder.master("spark://10.0.2.15:7077").getOrCreate()
 t1 = time.time()
 
 def find_days(df_taxi,i):
-        """ Find 3 top days with highest mean tip percentage"""
+        """ Find 5 top days with highest mean tip percentage"""
 
         # Filter by day
         temp = df_taxi.filter(df_taxi.Month == i).select("Day","Mean_Tip_Percentage")
