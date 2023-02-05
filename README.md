@@ -10,7 +10,7 @@ Pylarinou Artemis - artemispylarinou@gmail.com
 
 # Repository structure
 
-- <b>queries</b>: Code for tasks Q1-Q5
+- <b>queries</b>: Code for tasks Q1-Q5 as well as a base file that loads the dataframes and rdds and gets referenced in the queries
 - <b>results</b>: Results of the queries when run on spark
 - <b>upload_hdfs.sh</b>: Helper script that uploads files from local storage to HDFS
 
