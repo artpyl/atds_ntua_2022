@@ -1,0 +1,2 @@
+VendorID,tpep_pickup_datetime,tpep_dropoff_datetime,passenger_count,trip_distance,RatecodeID,store_and_fwd_flag,PULocationID,DOLocationID,payment_type,fare_amount,extra,mta_tax,tip_amount,tolls_amount,improvement_surcharge,total_amount,congestion_surcharge,airport_fee,Start,Destination
+1,2022-05-21T13:47:48.000Z,2022-05-21T14:05:47.000Z,1.0,2.4,3.0,N,239,246,3,31.5,0.0,0.0,0.0,813.75,0.3,845.55,0.0,0.0,Upper West Side South,West Chelsea/Hudson Yards
